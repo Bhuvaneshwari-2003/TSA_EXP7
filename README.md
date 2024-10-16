@@ -31,6 +31,7 @@ data['date'] = pd.to_datetime(data['date'])
 data.set_index('date', inplace=True)
 ```
 Perform Augmented Dickey-Fuller test
+```
 result = adfuller(data['temp']) 
 print('ADF Statistic:', result[0])
 print('p-value:', result[1])
