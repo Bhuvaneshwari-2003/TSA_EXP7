@@ -83,7 +83,7 @@ Augmented Dickey-Fuller test
 
 ![image](https://github.com/user-attachments/assets/9a0f8a1d-a7ee-4e9d-b287-fafeb3b25992)
 
-![image](https://github.com/user-attachments/assets/3351b195-8faf-4335-bff0-d441db18a9dd)
+
 
 Mean square error
 
